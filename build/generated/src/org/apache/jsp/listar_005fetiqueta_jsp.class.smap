@@ -1,0 +1,21 @@
+SMAP
+listar_005fetiqueta_jsp.java
+JSP
+*S JSP
+*F
++ 0 listar_etiqueta.jsp
+listar_etiqueta.jsp
++ 1 menu.jsp
+menu.jsp
+*L
+5,25:54
+5#1,21:79
+29#0,12:100
+41,11:113
+51,4:124
+55,4:128,3
+59:140,7
+60,4:147
+64,2:152
+65,5:154
+*E

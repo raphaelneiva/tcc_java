@@ -1,0 +1,38 @@
+.form{
+    margin-top: 0px;
+    position: relative;
+    padding: 10px;
+}
+h1#form{
+    color: black;
+    margin-top: 20px;
+    position: relative;
+    font-size: 16pt;
+}
+#turma1{
+    color: black;
+    margin-top: 20px;
+}
+#ver{
+    color: black;
+    font-weight: bold;
+    opacity: 1;
+}
+input#for{
+    color: #f1f1f1;
+    width: 300px;
+    background-color: #06171c; 
+    
+}
+input#for1{
+    color: #f1f1f1;
+    width: 150px;
+    background-color: #06171c; 
+}
+label#per{
+    color: white;
+}
+h2{
+    color: white;
+    position: relative;
+}

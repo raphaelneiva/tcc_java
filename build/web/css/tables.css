@@ -1,0 +1,94 @@
+.lp{
+    background-color: gray;
+}
+#text{
+    color: black;
+    margin-top: 20px;
+}
+table{
+    position: absolute;
+    left: 400px;
+    color: #1e1e1e;
+    background-color: #aaaaaa;
+    text-align: center;
+    border: 2px solid;
+    border-color: #1e1e1e;
+}
+table td{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+table#curso{
+    position: relative;
+    left: 550px;
+    text-align: center;
+    border: 2px solid;
+    border-color: #1e1e1e;
+}
+h1#curso{
+    color: black;
+    margin-top: 20px;
+    position: relative;
+}
+table#turma{
+    position: absolute;
+    left: 520px;
+    text-align: center;
+    border: 2px solid;
+    border-color: #1e1e1e;
+}
+h1#turma{
+    color: black;
+    margin-top: 20px;
+    position: relative;
+}
+h1#turma1{
+    color: black;
+    margin-top: 20px;
+    position: relative;
+    font-size: 16pt;
+}
+table#func{
+    left: 630px;
+    position: absolute;
+    text-align: center;
+    border: 2px solid;
+    border-color: #1e1e1e;
+}
+
+h1#func{
+    color: black;
+    margin-top: 20px;
+    position: relative;
+}
+table#perfil{
+    left: 710px;
+    color: black;
+    position: absolute;
+    text-align: center;
+    border: 2px solid;
+    border-color: #1e1e1e;
+}
+
+h1#perfil{
+    color: black;
+    margin-top: 20px;
+    position: relative;
+}
+#perfil1{
+    left: 700px;
+    position: absolute;
+    text-align: center;
+    border: 2px solid;
+    border-color: #1e1e1e;
+}
+#matri{
+    left: 650px;
+    position: absolute;
+    text-align: center;
+    border: 2px solid;
+    border-color: #1e1e1e;
+}
+h2{
+    color: black;
+}

@@ -1,0 +1,115 @@
+ body {
+    font-family: Montserrat;
+    background-image: url("../img/plano_de_fundo01.jpg");
+}
+.principal{
+    background-image: url("../img/plano_de_fundo5.jpg");
+    background-repeat: no-repeat;
+    height: 887px;
+    width: 1480px;
+    text-align: center;
+    color: white;
+    margin-left: 85px;
+}
+form {
+    margin-top: 50px;
+}
+.imgcontainer {
+    margin: 0px;
+}
+img.avatar {
+    margin-top: 10px;
+    width: 30%;
+    background-color: white;
+}
+img.icon {
+    width: 25px;
+}
+h1{
+    color: #f1f1f1;
+    font-size: 16pt;
+    margin: 0px;
+}
+#perfil{
+    font-weight: bold;
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
+#sair{
+    margin-left: 10px;
+    color: white;
+    background-color: #9b0000;
+    display: inline-block;
+    padding: 6px;
+    margin-bottom: 1px;
+    font-size: 12pt;
+    cursor: pointer;
+    transition: background-color 1s, color 1s, box-shadow 2s;
+}
+#sair:hover{
+    color: #9b0000;
+    background-color: white;
+    display: inline-block;
+    padding: 6px;
+    margin-bottom: 1px;
+    font-size: 12pt;
+    cursor: pointer;
+    box-shadow: 5px 5px 25px #333333;
+    transition: background-color 1s, color 1s, box-shadow 2s;
+}
+p{
+    font-size: 20pt;
+}
+#menu{
+    margin-left: 10px;
+    color: whitesmoke;
+    text-transform: uppercase;
+    background-color: red;
+    display: inline-block;
+    padding: 6px;
+    font-size: 12pt;
+    cursor: pointer;
+    background-color: #1e1e1e;
+    transition: background-color 1s, color 1s, box-shadow 2s;
+}
+
+#menu:hover{
+    box-shadow: 5px 5px 25px #333333;
+    color: #1e1e1e;
+    background-color: #c6c6c6;
+    transition: background-color 1s, color 1s, box-shadow 2s;
+}
+div#men{
+    display: inline-block;
+}
+a:link { 
+    color: black; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: transparent;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: transparent;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: transparent;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a{
+    margin: 0px;
+}
+.inp{
+    background-color: #c2c2c2;
+}
